@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+    text {
+      font-family: 'Great Vibes', cursive;
+      font-size: 32px;
+      fill: url(#grad);
+    }
+    
+    @keyframes colorChange {
+      0%, 100% {
+        stop-color: #8B4513; /* Brown */
+      }
+      25% {
+        stop-color: #D3D3D3; /* Light Gray */
+      }
+      50% {
+        stop-color: #000; /* Black */
+      }
+      75% {
+        stop-color: #D3D3D3; /* Light Gray */
+      }
+    }
+  </style>
+  
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B4513" />
+      <stop offset="100%" stop-color="#8B4513" />
+    </linearGradient>
+  </defs>
+  
+  <text x="20" y="70">
+    <tspan dy="0">T</tspan>
+    <tspan dy="0">h</tspan>
+    <tspan dy="0">e</tspan>
+    <tspan dy="0"> </tspan>
+    <tspan dy="0">4</tspan>
+    <tspan dy="0">6</tspan>
+    <tspan dy="0">t</tspan>
+    <tspan dy="0">h</tspan>
+    <tspan dy="0"> </tspan>
+    <tspan dy="0">P</tspan>
+    <tspan dy="0">l</tspan>
+    <tspan dy="0">a</tspan>
+    <tspan dy="0">c</tspan>
+    <tspan dy="0">e</tspan>
+  </text>
+</svg>
