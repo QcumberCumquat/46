@@ -1,26 +1,26 @@
-<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%">
   <!-- Ingredients -->
-  <text x="20" y="50" font-size="18">🌶️🍴🔥 **Mambo Sauce Recipe:** 🔥🍽️🌶️</text>
-  <text x="40" y="100" font-size="16">*Ingredients:*</text>
-  <text x="60" y="140" font-size="16">- 1 cup ketchup 🍅</text>
-  <text x="60" y="180" font-size="16">- 1/2 cup sugar 🍬</text>
-  <text x="60" y="220" font-size="16">- 1/4 cup apple cider vinegar 🍏</text>
-  <text x="60" y="260" font-size="16">- 1/4 cup water 💧</text>
-  <text x="60" y="300" font-size="16">- 2 tablespoons hot sauce 🌶️ (adjust to your preferred spice level)</text>
-  <text x="60" y="340" font-size="16">- 1 tablespoon soy sauce 🥡</text>
-  <text x="60" y="380" font-size="16">- 1 teaspoon paprika 🌶️</text>
-  <text x="60" y="420" font-size="16">- 1/2 teaspoon garlic powder 🧄</text>
-  <text x="60" y="460" font-size="16">- 1/2 teaspoon onion powder 🧅</text>
-  <text x="60" y="500" font-size="16">- 1/2 teaspoon crushed red pepper flakes (adjust for spiciness) 🌶️</text>
-  <text x="60" y="540" font-size="16">- Salt and pepper to taste 🧂🧂</text>
+  <text x="50%" y="50" font-size="18" text-anchor="middle">🌶️🍴🔥 **Mambo Sauce Recipe:** 🔥🍽️🌶️</text>
+  <text x="50%" y="100" font-size="16" text-anchor="middle">*Ingredients:*</text>
+  <text x="50%" y="140" font-size="16" text-anchor="middle">- 1 cup ketchup 🍅</text>
+  <text x="50%" y="180" font-size="16" text-anchor="middle">- 1/2 cup sugar 🍬</text>
+  <text x="50%" y="220" font-size="16" text-anchor="middle">- 1/4 cup apple cider vinegar 🍏</text>
+  <text x="50%" y="260" font-size="16" text-anchor="middle">- 1/4 cup water 💧</text>
+  <text x="50%" y="300" font-size="16" text-anchor="middle">- 2 tablespoons hot sauce 🌶️ (adjust to your preferred spice level)</text>
+  <text x="50%" y="340" font-size="16" text-anchor="middle">- 1 tablespoon soy sauce 🥡</text>
+  <text x="50%" y="380" font-size="16" text-anchor="middle">- 1 teaspoon paprika 🌶️</text>
+  <text x="50%" y="420" font-size="16" text-anchor="middle">- 1/2 teaspoon garlic powder 🧄</text>
+  <text x="50%" y="460" font-size="16" text-anchor="middle">- 1/2 teaspoon onion powder 🧅</text>
+  <text x="50%" y="500" font-size="16" text-anchor="middle">- 1/2 teaspoon crushed red pepper flakes (adjust for spiciness) 🌶️</text>
+  <text x="50%" y="540" font-size="16" text-anchor="middle">- Salt and pepper to taste 🧂🧂</text>
 
   <!-- Instructions -->
-  <text x="40" y="590" font-size="16">*Instructions:*</text>
-  <text x="60" y="630" font-size="16">1. In a saucepan over medium heat, combine ketchup 🍅, sugar 🍬, apple cider vinegar 🍏, water 💧, hot sauce 🌶️, and soy sauce 🥡. Stir well.</text>
-  <text x="60" y="670" font-size="16">2. Add paprika 🌶️, garlic powder 🧄, onion powder 🧅, and crushed red pepper flakes 🌶️ to the mixture. Stir to combine all the ingredients.</text>
-  <text x="60" y="710" font-size="16">3. Bring the sauce to a boil, then reduce the heat and let it simmer for about 10-15 minutes, or until it thickens to your desired consistency.</text>
-  <text x="60" y="750" font-size="16">4. Season with salt 🧂 and pepper to taste. Adjust the level of hot sauce 🌶️ and crushed red pepper flakes 🌶️ for your preferred spiciness.</text>
-  <text x="60" y="790" font-size="16">5. Remove the sauce from heat and allow it to cool.</text>
-  <text x="60" y="830" font-size="16">6. Once cooled, pour the Mambo Sauce into a jar or bottle for storage.</text>
-  <text x="60" y="870" font-size="16">7. Serve this homemade Mambo Sauce as a dipping sauce for chicken wings, French fries, or other fried delights. Enjoy the flavors of D.C. right at home! 🌶️🍗🔥🍟🍅</text>
+  <text x="50%" y="590" font-size="16" text-anchor="middle">*Instructions:*</text>
+  <text x="50%" y="630" font-size="16" text-anchor="middle">1. In a saucepan over medium heat, combine ketchup 🍅, sugar 🍬, apple cider vinegar 🍏, water 💧, hot sauce 🌶️, and soy sauce 🥡. Stir well.</text>
+  <text x="50%" y="670" font-size="16" text-anchor="middle">2. Add paprika 🌶️, garlic powder 🧄, onion powder 🧅, and crushed red pepper flakes 🌶️ to the mixture. Stir to combine all the ingredients.</text>
+  <text x="50%" y="710" font-size="16" text-anchor="middle">3. Bring the sauce to a boil, then reduce the heat and let it simmer for about 10-15 minutes, or until it thickens to your desired consistency.</text>
+  <text x="50%" y="750" font-size="16" text-anchor="middle">4. Season with salt 🧂 and pepper to taste. Adjust the level of hot sauce 🌶️ and crushed red pepper flakes 🌶️ for your preferred spiciness.</text>
+  <text x="50%" y="790" font-size="16" text-anchor="middle">5. Remove the sauce from heat and allow it to cool.</text>
+  <text x="50%" y="830" font-size="16" text-anchor="middle">6. Once cooled, pour the Mambo Sauce into a jar or bottle for storage.</text>
+  <text x="50%" y="870" font-size="16" text-anchor="middle">7. Serve this homemade Mambo Sauce as a dipping sauce for chicken wings, French fries, or other fried delights. Enjoy the flavors of D.C. right at home! 🌶️🍗🔥🍟🍅</text>
 </svg>
